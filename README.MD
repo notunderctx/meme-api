@@ -1,7 +1,6 @@
 # Meme api
 
 - A json api made with flask to get memes using the reddit api
--
 
 > Make sure to go to `settings.example.py` and add the fields and rename the file
 > run `pip install -r requirements.txt`
